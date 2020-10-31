@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Bacter SMS Bomb-Bomber</string>
+    <string name="app_desc">A Simple SMS Bomber App to ruin your Buddies day.</string>
+    <string name="warning">Warning: </string>
+    <string name="warning_desc">Do Not Use For Malicious Purposes!</string>
+    <string name="app_dev">Developed by: BdFreak</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_about">About</string>
+    <string name="action_exit">Exit</string>
+    <string name="select_a_target">Select Target&#8230;</string>
+    <string name="cancel">Cancel</string>
+    <string name="allow">Allow</string>
+    <string name="settings">Settings</string>
+    <plurals name="flag_segments">
+        <item quantity="zero">ZnR3</item>
+        <item quantity="one">QG5kcjBpZA==</item>
+        <item quantity="other">cHx1ckB8JA==</item>
+    </plurals>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="confirm">select</string>
+    <string name="options">Options</string>
+    <string name="ToolbarColorPickerPreference">ToolbarColorPickerPreference</string>
+    <string name="BackgroundColorPickerPreference">BackgroundColorPickerPreference</string>
+</resources>
